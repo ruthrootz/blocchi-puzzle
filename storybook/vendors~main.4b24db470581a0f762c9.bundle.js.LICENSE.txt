@@ -54,6 +54,12 @@ object-assign
  * Released under the MIT License.
  */
 
+/*!
+* screenfull
+* v5.0.2 - 2020-02-13
+* (c) Sindre Sorhus; MIT License
+*/
+
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 
